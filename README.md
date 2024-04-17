@@ -2,8 +2,8 @@
 - 👀 I’m interested in web-programming
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on future company
-- 📫 How to reach me 
-- 😄 Pronouns: @sseprogrammer
+- 📫 How to reach me @sseprogrammer
+- 😄 Pronouns: 😉
 - ⚡ Fun fact: no
 
 <!---
